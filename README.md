@@ -88,7 +88,9 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
+![atl_ironman](https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg)
 
+<img src ="https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg" alt ="ironman" width ="300" height="300">
 
 ##Contributing
 
@@ -123,6 +125,26 @@ Please make sure to update tests as appropriate.
 ```
 
 ```diff
+-Red
++Green
+#Grey
+!Orange
+@Hi
+$Hey
+%YES
+^No
+&Jo
+*Heyy
+|Yo
+\Ki
+/Kii
+?Lo
+<LOL
+>HaHa
+
+```
+
+```diff
 -text
 +word
 !character
@@ -130,3 +152,4 @@ Please make sure to update tests as appropriate.
 ```
 
 [Aung T Tant](https://twitter.com/aung_tant)
+[MIT](https://choosealicense.com/licenses/mit/)
