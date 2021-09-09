@@ -151,5 +151,5 @@ $Hey
 #string
 ```
 
-[Aung T Tant](https://twitter.com/aung_tant)
+[Aung T Tant](https://instagram.com/aungttant)
 [MIT](https://choosealicense.com/licenses/mit/)
